@@ -47,37 +47,39 @@ LinkingTo: Rcpp, RcppArmadillo, irlba, pracma
 The R version used for this study is 3.6.2. Multi-thread CPUs are recommended since most of the analyses in the manuscript are performed using parallel computing with multiple cores due to intensive computational demand. GPU is not utilized in this study.
 
 The required R packages and corresponding versions to fully reproduce the results are listed below.
-```
-1 pheatmap 1.0.12
-2 class 7.3-17
-3 randomForest 4.6-14
-4 doRNG 1.8.2
-5 rngtools 1.5
-6 caret 6.0-86
-7 ggplot 23.3.2
-8 lattice 0.20-38
-9 pracma 2.2.9
-10 rlang 0.4.8
-11 RcppArmadillo 0.10.1.2.0
-12 Rcpp 1.0.05
-13 raster 3.4-5
-14 sp 1.4-2
-15 ranger 0.12.1
-16 rorpcor 1.6.9
-17 e1071 1.7-4
-18 doParallel 1.0.16
-19 iterators 1.0.12
-20 dplyr 1.0.2
-21 dlmnet 4.0-2
-22 irlba 2.3.3
-23 matrix 1.2-18
-24 tm 0.7-8
-25 nLP 0.2-1
-26 foreach 1.5.1
-27 readr 1.4.0
-28 stringr 1.4.0
-29 MatrixFact 1.0.0
-```
+
+| |Package|Version|
+| :- | :- | :- |
+|1|pheatmap|1.0.12|
+|2|class|7.3-17|
+|3|randomForest|4.6-14|
+|4|doRNG|1.8.2|
+|5|rngtools|1.5|
+|6|caret|6.0-86|
+|7|ggplot2|3.3.2|
+|8|lattice|0.20-38|
+|9|pracma|2.2.9|
+|10|rlang|0.4.8|
+|11|RcppArmadillo|0.10.1.2.0|
+|12|Rcpp|1.0.05|
+|13|raster|3.4-5|
+|14|sp|1.4-2|
+|15|ranger|0.12.1|
+|16|rorpcor|1.6.9|
+|17|e1071|1.7-4|
+|18|doParallel|1.0.16|
+|19|iterators|1.0.12|
+|20|dplyr|1.0.2|
+|21|dlmnet|4.0-2|
+|22|irlba|2.3.3|
+|23|matrix|1.2-18|
+|24|tm|0.7-8|
+|25|nLP|0.2-1|
+|26|foreach|1.5.1|
+|27|readr|1.4.0|
+|28|stringr|1.4.0|
+|29|MatrixFact|1.0.0|
+
 
 ## Instructions for use
 
