@@ -1,5 +1,5 @@
 # Topic Modeling on Triage Notes with Semi-orthogonal Non-negative Matrix Factorization
-
+### Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye & Zhankun Sun
 # Author Contributions Checklist Form
 
 Code and dataset for reproducing the results in the "Topic Modeling on Triage Notes with Semi-orthogonal Non-negative Matrix Factorization" manuscript published in the Journal of the American Statistical Association (Applications and Case Studies).
